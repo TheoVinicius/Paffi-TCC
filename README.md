@@ -1,2 +1,2 @@
 # NOME: Paffi-TCC
-## DESCRIÇÃO: Site de entrega de comidas o Campus do CP2
+## DESCRIÇÃO: Site de entrega de comidas do Campus do CP2
