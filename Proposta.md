@@ -17,8 +17,8 @@
 + Sistema de avaliação e perfil do vendedor
 
 ## Stakeholder:
-&nbsp;&nbsp;&nbsp; + Nome:Emanuelle de Araújo Siqueira
-&nbsp;&nbsp;&nbsp; + Profissão: Autônoma 
-&nbsp;&nbsp;&nbsp; + Cargo/Empresa: Dona de Palhas Italianas da Manu
-&nbsp;&nbsp;&nbsp; + Data da entrevista: 25/04/2019
+&nbsp;&nbsp;&nbsp;+ Nome:Emanuelle de Araújo Siqueira
+&nbsp;&nbsp;&nbsp;+ Profissão: Autônoma 
+&nbsp;&nbsp;&nbsp;+ Cargo/Empresa: Dona de Palhas Italianas da Manu
+&nbsp;&nbsp;&nbsp;+ Data da entrevista: 25/04/2019
 
