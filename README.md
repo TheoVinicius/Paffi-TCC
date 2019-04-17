@@ -6,3 +6,4 @@
 
 + Facilitar a busca pelos seus pratos favoritos sem precisar procurar pelo Campus.
 + Aumentar o lucro de Alunos que vendem alimentos e muitas vezes tem essa atividade como renda.
++ Mostrar aos alunos toda a variedade de opções alimentícias dentro do Campus.
